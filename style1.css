@@ -1,0 +1,24 @@
+section{
+    height: 75px;
+    background-color:wheat;   
+}
+header{
+    height:100px;
+}
+footer{
+    height:825px;
+}
+.navbar{
+    font-size: 25px;
+    font-stretch:ultra-condensed;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: green;
+    width:100%;
+}
+.navbar a {
+    float: left;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 15px;
+    width: 20%;
+}
